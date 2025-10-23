@@ -1,30 +1,22 @@
 {
-  "features": [
+  "informacoes": [
     {
-      "type": "Feature",
-      "properties": {
-        "name": "Hospital Santa Maria",
-        "city": "Arapiraca",
-        "state": "Alagoas",
-        "country": "Brazil"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-36.6611, -9.7555]
-      }
+      "id": "1",
+      "phone": "+55 82 1234-5678",
+      "email": "contato@santamaria.com.br",
+      "website": "www.santamaria.com.br"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "name": "Hospital São José",
-        "city": "Maceió",
-        "state": "Alagoas",
-        "country": "Brazil"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-35.735, -9.665]
-      }
+      "id": "2",
+      "phone": "+55 82 8765-4321",
+      "email": "contato@saosejose.com.br",
+      "website": "www.saosejose.com.br"
+    },
+    {
+      "id": "3",
+      "phone": "+55 82 9988-7766",
+      "email": "contato@vidanova.com.br",
+      "website": "www.vidanova.com.br"
     }
   ]
 }
