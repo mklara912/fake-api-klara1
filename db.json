@@ -1,0 +1,30 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Santa Maria",
+        "city": "Arapiraca",
+        "state": "Alagoas",
+        "country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.6611, -9.7555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital São José",
+        "city": "Maceió",
+        "state": "Alagoas",
+        "country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.735, -9.665]
+      }
+    }
+  ]
+}
